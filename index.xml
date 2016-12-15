@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<cv>
+	<Personne>	
+		<nom>PEREIRA</nom>
+		<prenom>Christophe</prenom>
+		<adresse>40 Faubourg du 8 Mai 1945</adresse>
+	</Personne>
+
+	<CPT>
+		<Listcompetence>
+			<cpt1></cpt1>
+		</Listcompetence>
+	</CPT>
+	<EXP>
+		<Lister>
+			<exp1>test</exp1>
+		</Lister>
+	</EXP>
+</cv>
